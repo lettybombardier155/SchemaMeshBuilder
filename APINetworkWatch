@@ -1,0 +1,23 @@
+
+---
+
+### **2. 37_APINetworkWatch**  
+**Description:**  
+Scans multiple APIs across regions/nodes and logs uptime and latency for each one.
+
+#### **README.md**
+```markdown
+# APINetworkWatch - Global Endpoint Latency Monitor
+
+APINetworkWatch provides a bird’s-eye view of API health across distributed environments or data centers.
+
+## Features
+- Logs status, response time  
+- Works with global API maps  
+- Tabular summary view  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_APINetworkWatch.git
+cd 37_APINetworkWatch
+python monitor.py
