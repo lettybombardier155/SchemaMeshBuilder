@@ -1,0 +1,23 @@
+
+---
+
+### **3. 37_LogBurstRadar**  
+**Description:**  
+Detects error surges, repeated messages, and clustered log events based on time or frequency.
+
+#### **README.md**
+```markdown
+# LogBurstRadar - Repeating Log Pattern Analyzer
+
+LogBurstRadar is optimized for identifying log noise, error storms, and unusual system behavior over time.
+
+## Features
+- Frequency + burst detection  
+- Timestamp-aware clustering  
+- Custom keyword alerts  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_LogBurstRadar.git
+cd 37_LogBurstRadar
+python analyze.py
