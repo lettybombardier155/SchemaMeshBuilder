@@ -1,0 +1,23 @@
+
+---
+
+### **4. 37_LiveMetricScope**  
+**Description:**  
+Live-stream chart visualizer for real-time data feeds or performance metrics.
+
+#### **README.md**
+```markdown
+# LiveMetricScope - Real-Time Data Chart Viewer
+
+LiveMetricScope displays streaming numerical input as a smooth, real-time line chart for metrics, simulations, or dashboards.
+
+## Features
+- Realtime updates  
+- Auto-scroll chart  
+- Matplotlib-powered  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_LiveMetricScope.git
+cd 37_LiveMetricScope
+python visualize.py
